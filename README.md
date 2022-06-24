@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManavLohia
-- 👀 I’m interested in Data analysis using python
-- 🌱 I’m currently learning Front-end and AI in python
+- 👀 I’m interested in Data analysis.
+- 🌱 I’m currently learning Front-end developnemt and AI in python
 - 📫 How to reach me:Instagram: Username:manav_lohia
 
 <!---
