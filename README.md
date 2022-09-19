@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManavLohia
-- 👀 I’m interested in Data analysis.
-- 🌱 I’m currently learning Front-end developnemt
+- 👀 I’m interested in Front-end developnemt.
+- 🌱 I’m currently learning DSA. 
 - 📫 How to reach me:Instagram: Username:manav_lohia
 
 <!---
