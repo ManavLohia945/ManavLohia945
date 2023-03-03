@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ManavLohia a passionate and enthusiastic developer.<br>👀 I’m interested in Full-Stack Web development.<br>🌱 I’m currently learning DSA and improving my problem solving skills.<br>📫 My Linkedin profile: https://www.linkedin.com/in/manav-lohia-288368221/<br>My portfolio website: https://manavlohia945.github.io/My-Portfolio-Website/#
+👋 Hi, I’m @ManavLohia a passionate and an enthusiastic developer.<br>👀 I’m interested in Full-Stack Web development.<br>🌱 I’m currently learning DSA and improving my problem solving skills.<br>📫 My Linkedin profile: https://www.linkedin.com/in/manav-lohia-288368221/<br>My portfolio website: https://manavlohia945.github.io/My-Portfolio-Website/#
 
 
 ## 🌐 Socials:
