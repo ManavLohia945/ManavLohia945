@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ManavLohia a passionate and an enthusiastic Business Analyst.<br>👀 Data-driven professional with 1+ years of experience in business analytics.<br>🌱 Skilled in SQL, Python, PostgreSQL, AWS, Linux, Tableau, Power BI, Google Looker Studio and Excel, with expertise in managing large datasets and developing actionable insights for business growth.<br>📫 My Linkedin profile: https://www.linkedin.com/in/manav-lohia-288368221/<br>My portfolio website: https://manavlohia945.github.io/My-Portfolio-Website/#
+👋 Hi, I’m @ManavLohia a passionate and an enthusiastic Business Analyst.<br>👀 Data-driven professional with 1+ years of experience in business analytics.<br>🌱 Skilled in SQL, Python, Power BI, Google Looker Studio, Excel and Machine Learning with expertise in managing large datasets and developing actionable insights for business growth.<br>📫 My Linkedin profile: https://www.linkedin.com/in/manav-lohia-288368221/
 
 
 ## 🌐 Socials:
